@@ -143,6 +143,7 @@ footer {
   @media (max-width: 80em)  Max 1280px 	_lg-*
 */
 
+
 /* Gridlex SM query - Max 768px - _sm-* */
 @media (max-width: 48em) {
     .text-xxl { font-size: 6.5rem; }
@@ -155,6 +156,7 @@ footer {
     .text-center-sm { text-align: center; }
 }	
 
+
 /* Gridlex XS media query - Max 576px - _xs-* */
 @media (max-width: 36em) {
     .text-xl { font-size: 2.5rem; }
@@ -162,6 +164,7 @@ footer {
     .text-xxl { font-size: 4.5rem; }
 }	
 
+ 
 /* Custom XXS media query - Max 400px - _xs-* */
 @media (max-width: 25em) {
     .text-xxl { font-size: 2.5rem; }
